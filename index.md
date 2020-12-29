@@ -2,4 +2,4 @@
 
 ## projects
 
-1. Blog
+1. [My Blog](https://darcrandex.github.io/my-blog/)
